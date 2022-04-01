@@ -6,5 +6,6 @@ The project is a multi-lingual and user friendly website created for the farming
 The dataset for plant disease prediction has been downloaded from Kaggle website and contains a good percentage of indian plant images such as tomato, grapes, apple, corn, etc.
 
 The link for dataset has been provided below:
-https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset   
+Image dataset- https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset   
+Crop datset- https://www.kaggle.com/datasets/enrc19/crop-production-data?select=cpdata.csv
 
