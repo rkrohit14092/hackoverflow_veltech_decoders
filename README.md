@@ -8,4 +8,4 @@ The dataset for plant disease prediction has been downloaded from Kaggle website
 The link for dataset has been provided below:
 Image dataset- https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset   
 Crop datset- https://www.kaggle.com/datasets/enrc19/crop-production-data?select=cpdata.csv
-
+Fertilizer dataset- https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
