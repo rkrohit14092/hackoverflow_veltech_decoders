@@ -12,6 +12,7 @@ Algorithms used- Naive Bayes
 Accuracy- 99.0%
 Crop datset- https://www.kaggle.com/datasets/enrc19/crop-production-data?select=cpdata.csv
 Fertilizer dataset- https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+for weather-https://openweathermap.org/api
 
 ## Future Price Prediction
 ---work going on--
