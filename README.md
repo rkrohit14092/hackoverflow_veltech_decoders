@@ -3,7 +3,7 @@ The project FARMER'S ELF is created by the team VEL TECH DECODERS. The members a
 The project is a multi-lingual and user friendly website created for the farming community of the country which cannot afford heavy robotics and technology. The project is built on PYTHON language, contains various modules namely Disease prediction module, crop recommendation module, fertilizer prediction module and future price prediction module. These modules are integrated and presented in the form of a website using HTML and CSS language.
 ### Website Overview
 
-![images](1.png)
+![images](https://github.com/rkrohit14092/hackoverflow_veltech_decoders/tree/main/images/1.png)
 ![images](2.png)
 ![images](3.png)
 
